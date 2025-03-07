@@ -1,0 +1,7 @@
+/media/amr/external/me/temp/SmartJobAssistantPublish/appsettings.Development.json
+/media/amr/external/me/temp/SmartJobAssistantPublish/appsettings.json
+/media/amr/external/me/temp/SmartJobAssistantPublish/SmartJobAssistant.APIS.pdb
+/media/amr/external/me/temp/SmartJobAssistantPublish/SmartJobAssistant.Repository.pdb
+/media/amr/external/me/temp/SmartJobAssistantPublish/SmartJobAssistant.Services.pdb
+/media/amr/external/me/temp/SmartJobAssistantPublish/SmartJobAssistant.Core.pdb
+/media/amr/external/me/temp/SmartJobAssistantPublish/SmartJobAssistant.APIS

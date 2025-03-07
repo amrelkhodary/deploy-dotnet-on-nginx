@@ -1,0 +1,13 @@
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/bin/Release/net8.0/linux-x64/SmartJobAssistant.Core.deps.json
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/bin/Release/net8.0/linux-x64/SmartJobAssistant.Core.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/bin/Release/net8.0/linux-x64/SmartJobAssistant.Core.pdb
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.csproj.AssemblyReference.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.GeneratedMSBuildEditorConfig.editorconfig
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.AssemblyInfoInputs.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.AssemblyInfo.cs
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.csproj.CoreCompileInputs.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.sourcelink.json
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/refint/SmartJobAssistant.Core.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/SmartJobAssistant.Core.pdb
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Core/obj/Release/net8.0/linux-x64/ref/SmartJobAssistant.Core.dll

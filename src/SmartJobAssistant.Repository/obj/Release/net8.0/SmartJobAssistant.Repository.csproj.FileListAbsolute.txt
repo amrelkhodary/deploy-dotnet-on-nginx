@@ -1,0 +1,16 @@
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/bin/Release/net8.0/SmartJobAssistant.Repository.deps.json
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/bin/Release/net8.0/SmartJobAssistant.Repository.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/bin/Release/net8.0/SmartJobAssistant.Repository.pdb
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/bin/Release/net8.0/SmartJobAssistant.Core.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/bin/Release/net8.0/SmartJobAssistant.Core.pdb
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.csproj.AssemblyReference.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.AssemblyInfoInputs.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.AssemblyInfo.cs
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.csproj.CoreCompileInputs.cache
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.sourcelink.json
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.csproj.CopyComplete
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/refint/SmartJobAssistant.Repository.dll
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/SmartJobAssistant.Repository.pdb
+/media/amr/external/me/temp/SmartJobAssistant/SmartJobAssistant.Repository/obj/Release/net8.0/ref/SmartJobAssistant.Repository.dll
